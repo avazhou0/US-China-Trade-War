@@ -1,7 +1,7 @@
 # US-China-Trade-War
 Downloadable excel format Tariff lists of the US-China Trade War
 
-      US-China-Trade-War/Tariff Lists_US-China Trade War.xlsx
+## [Tariff Lists](https://github.com/avazhou0/US-China-Trade-War/blob/7652251d977da85cb3f4ed2ad94d73d59cd7472a/Tariff%20Lists_US-China%20Trade%20War.xlsx)
     
 ## Section 301: US puts additional duties on imports of China Origin goods which classied with the attached tariff lists
   ### List 1: effective on Jul 6, 2018; 818 HTS codes; 25% additional duties. 
